@@ -19,4 +19,4 @@ Implementation is done using SQLite and Repl.it
 
 ## Notes
 *- Since this is a very small project, I did not extract the keywords to separate resources file nor did I follow any extensive POM practice to keep the locators in one place.*\
-*- Also the use of docker here is simply to ommit the need for having browsers and their respective selenium drivers installed. The web automation test can be surely run directly from python/docker, but would require user to properly configure the system to include the drivers in PATH and that use was never tested*
+*- Also the use of docker here is simply to ommit the need for having browsers and their respective selenium drivers installed. The web automation test can be surely run directly from python/robot, but would require user to properly configure the system to include the drivers in PATH and that use was never tested*
